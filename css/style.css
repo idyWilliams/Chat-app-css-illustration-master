@@ -33,7 +33,7 @@ div .capsule {
 .capsule2 {
   overflow-x: hidden;
   position:absolute;
-  right: -1px;
+  right: 0px;
   bottom: 0px;
   /* border: 1px solid purple; */
   width: 440px;
@@ -248,7 +248,7 @@ div .last1 {
   color: #fff;
 }
 div .last {
-  font-size: 12px;
+  font-size: 10px;
   font-weight: bold;
   text-decoration: solid;
   color: #fff;
@@ -280,7 +280,7 @@ div .price {
 }
 div .time {
   text-align: center;
-  font-size: 10px;
+  font-size: 9px;
   font-weight: bold;
   color: #fff;
 }
